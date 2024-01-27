@@ -1,4 +1,4 @@
-package _05_class._08_generic;
+package _07_generic;
 
 // 참고. Number 클래스
 // Java 의 모든 숫자 형식의 부모 클래스

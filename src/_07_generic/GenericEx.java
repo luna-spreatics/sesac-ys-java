@@ -1,4 +1,4 @@
-package _05_class._08_generic;
+package _07_generic;
 
 import java.util.ArrayList;
 

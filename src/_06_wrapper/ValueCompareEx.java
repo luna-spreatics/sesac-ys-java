@@ -1,4 +1,4 @@
-package _05_class._07_wrapper;
+package _06_wrapper;
 
 // 포장 값 비교
 // - 포장 객체 내부 값을 비교하기 위해 ==, != 연산자 불가능
